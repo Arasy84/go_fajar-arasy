@@ -1,4 +1,4 @@
-Test Management Konflik Tugas 03_Version-Control-and-Branch-Management-Git
+Test Konflik Tugas 03_Version-Control-and-Branch-Management-Git
 Nama: Fajar arasy
 Kelas: B
 Universitas: Krisnadwipayana
