@@ -44,7 +44,7 @@ Soal Prioritas 2
         Tambahkan komentar tentang perubahan yang di buat.
         Klik tombol Create pull request.
 
-Soal Explorasi
+Soal Explorasi 3
    1. praktikkan salah satu workflow serderhana 
    2. lakukan management konflik pada github
    3. Lakukan code review pada github yang kalian kumpulkan
