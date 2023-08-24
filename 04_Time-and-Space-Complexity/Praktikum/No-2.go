@@ -13,6 +13,6 @@ func power(x int, n int) int {
 }
 
 func main() {
-	fmt.Println(power(2, 3)) // Output: 8
-	fmt.Println(power(7, 2)) // Output: 49
+	fmt.Println(power(2, 3))
+	fmt.Println(power(7, 2))
 }

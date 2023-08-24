@@ -1,1 +1,3 @@
- 
+   - Time complexity adalah parameter yang digunakan untuk mengukur waktu eksekusi  suatu algoritma akhir 
+   - Time complexity ditunjukkan dengan huruf kapital O  
+   - Ada beberapa metrik umum untuk mengukur time complexity, termasuk O(1), O(n), O(n m), O(log(n)), dll.
