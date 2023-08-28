@@ -1,4 +1,4 @@
- string merupakan tipe data yang dapat menampung karakter-karakter
+string merupakan tipe data yang dapat menampung karakter-karakter
 di golang terdapat package strings yang memiliki fungsi-fungsi untuk melakukan manipulasi string, misalnya: Contains, Replace, dsb.
 di golang terdapat fitur anonymous function (fungsi tanpa nama), variadic function (parameter yang bisa menampung banyak argumen), closure (fungsi yang memiliki lexical scope yang mana dapat mengakses data di sekitar fungsi), defer function (fungsi yang dipanggil sebelum fungsi dimana dia dipanggil berakhir)
 di golang terdapat pointer yang merupakan tipe data yang menyimpan referensi dari sebuah nilai dengan tipe data tertentu
