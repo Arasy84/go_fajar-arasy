@@ -1,0 +1,22 @@
+INSERT INTO transactions (
+  id,
+  user_id,
+  payment_method_id,
+  status,
+  total_qty,
+  total_price
+) VALUES (1, 1, 1, 'PENDING', 6, 60000),
+(2, 1, 2, 'PENDING', 15, 150000),
+(3, 1, 3, 'CANCELLED', 16, 160000),
+(4, 2, 1, 'PENDING', 9, 90000),
+(5, 2, 2, 'SUCCESS', 18, 180000),
+(6, 2, 3, 'CANCELLED', 6, 60000),
+(7, 3, 1, 'SUCCESS', 8, 80000),
+(8, 3, 2, 'PENDING', 18, 180000),
+(9, 3, 3, 'PENDING', 11, 110000),
+(10, 4, 1, 'CANCELLED', 12, 120000),
+(11, 4, 2, 'PENDING', 21, 210000),
+(12, 4, 3, 'PENDING', 6, 60000),
+(13, 5, 1, 'CANCELLED', 15, 150000),
+(14, 5, 2, 'PENDING', 16, 160000),
+(15, 5, 3, 'SUCCESS', 9, 90000);
