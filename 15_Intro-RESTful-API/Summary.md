@@ -1,12 +1,4 @@
- RESTful API adalah arsitektur API yang menggunakan HTTP untuk mengakses dan memanipulasi sumber daya.
-
-(48 kata)
-
-Atau, jika ingin lebih singkat:
-
-RESTful API adalah API yang menggunakan HTTP untuk mengakses data.
-
-(20 kata)
+RESTful API adalah arsitektur API yang menggunakan HTTP untuk mengakses dan memanipulasi sumber daya.
 
 Penjelasan:
 
