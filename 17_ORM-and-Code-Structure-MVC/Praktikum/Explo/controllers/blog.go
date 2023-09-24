@@ -50,21 +50,6 @@ func CreateBlogController(c echo.Context) error {
 	blog := models.Blog{}
 	c.Bind(&blog)
 
-	userIDStr := c.Param("user_id")
-	userID, err := strconv.Atoi(userIDStr)
-
-	if err != nil {
-		return echo.NewHTTPError(http.StatusBadRequest, "Invalid user ID")
-	}
-
-	var user models.User
-
-	if err := configs.DB.First(&user, userID).Error; err != nil {
-		return echo.NewHTTPError(http.StatusBadRequest, err.Error())
-	}
-
-	blog.UserID = user.ID
-
 	if err := configs.DB.Save(&blog).Error; err != nil {
 		return echo.NewHTTPError(http.StatusBadRequest, err.Error())
 	}
