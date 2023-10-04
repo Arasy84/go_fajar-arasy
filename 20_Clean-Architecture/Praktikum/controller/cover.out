@@ -1,0 +1,12 @@
+mode: set
+20_Clean-Architecture/controller/user.go:23.73,27.2 1 1
+20_Clean-Architecture/controller/user.go:29.60,31.16 2 1
+20_Clean-Architecture/controller/user.go:31.16,35.3 1 0
+20_Clean-Architecture/controller/user.go:36.2,38.4 1 1
+20_Clean-Architecture/controller/user.go:41.59,44.16 3 1
+20_Clean-Architecture/controller/user.go:44.16,48.3 1 0
+20_Clean-Architecture/controller/user.go:50.2,51.16 2 1
+20_Clean-Architecture/controller/user.go:51.16,55.3 1 1
+20_Clean-Architecture/controller/user.go:57.2,58.16 2 1
+20_Clean-Architecture/controller/user.go:58.16,62.3 1 0
+20_Clean-Architecture/controller/user.go:64.2,70.4 2 1
