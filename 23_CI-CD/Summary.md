@@ -1,0 +1,3 @@
+continuous integration (CI) merupakan otomasi yang dilakukan untuk mengintegrasikan source code dari sumber yang berbeda untuk melakukan build testing
+continuous deployment (CD) merupakan otomasi proses deployment setelah proses CI
+perbedaan dari continuous delivery dengan continuous deployment adalah di bagian deploy to Production, continuous delivery masih melakukannya secara manual sedangkan continuous deployment dilakukan secara otomatis
