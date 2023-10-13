@@ -1,0 +1,74 @@
+Nama:Fajar Arasy
+Kelas: Golang-B
+
+Saya melakukan 2 kali praktik mengguankan open ai playground pada percobaan pertama saya menggunakan tamplate explain code.
+•	Search Without Modification On System
+  
+
+•	User: 
+Sebutkan dan jelaskan tentang bahasa pemprograman golang secara detail!
+
+•	Assistant:
+Bahasa pemrograman Go, juga dikenal sebagai Golang, adalah bahasa pemrograman open source yang dikembangkan oleh Google. Go dirancang untuk menjadi sederhana, efisien, dan mudah dipahami oleh para pengembang. Beberapa fitur utama dari Go termasuk:
+
+1. Penulisan kode yang mudah dibaca: Go memiliki sintaks yang sederhana dan bersih, dengan aturan penulisan kode yang konsisten. Hal ini membuat kode menjadi lebih mudah dipahami dan dipelihara.
+
+2. Konkurensi dan paralelisme: Go memiliki dukungan bawaan untuk konkurensi dan paralelisme. Dengan menggunakan goroutine (unit eksekusi ringan) dan channel (alat komunikasi antar goroutine), pengembang dapat dengan mudah membuat program yang efisien dan responsif.
+
+3. Kinerja yang tinggi: Go dikompilasi menjadi kode mesin sehingga memiliki kinerja yang tinggi. Go juga memiliki garbage collector yang efisien untuk mengelola alokasi memori.
+
+4. Pengelolaan memori yang aman: Go memiliki pengelolaan memori yang aman dengan adanya garbage collector. Hal ini menghilangkan kebutuhan untuk mengalokasikan dan membebaskan memori secara manual, sehingga mengurangi risiko kesalahan pemrograman yang umum terjadi.
+
+5. Pustaka standar yang kuat: Go dilengkapi dengan pustaka standar yang kaya, yang mencakup berbagai fungsi dan paket untuk memudahkan pengembangan aplikasi.
+
+6. Kompatibilitas lintas platform: Go dapat digunakan untuk mengembangkan aplikasi pada berbagai platform, termasuk Windows, macOS, Linux, dan bahkan perangkat mobile seperti Android dan iOS.
+
+Dengan semua fitur ini, Go menjadi bahasa pemrograman yang populer untuk pengembangan aplikasi web, pemrograman sistem, dan pengembangan perangkat lunak pada umumnya.
+
+
+
+•	Search With System Modifications That Have Been Made
+Pada praktik kedua saya menggunakan pencarian dengan memodifikasi system. 
+	Input hanya terdapat 5 bahasa programing.
+	Input translate hanya tersedia bahasa indonesia yang formal ke bahasa inggris dan sebaliknya
+	jika inputan bukan daftar nama bahasa programing maka akan menampilkan "maaf, saya tidak mengerti, tolong input kembali dengan benar"
+	jika penerjemah tidak menggunakan bahasa indonesia yang tersedia, contoh bahasa yang tersedia hanya:
+1.bahasa indonesia yang formal ke bahasa inggris
+2.bahasa bahasa inggris indonesia yang formal, maka respon "maaf saya tidak paham apa yang anda ketik" 
+	jika inputan menggunakan bahasa indonesia yang tidak formal atau gaul maka respon akan menampilkan "maaf saya tidak paham bahasa yang anda pakai mohon inputkan kembali bahasa yang benar"
+ 
+•	User:
+Sebutkan 5 bahasa yang biasa di pake back-end?
+
+•	Assistant:
+1. Python
+2. Java
+3. PHP
+4. Ruby
+5. C#
+
+•	User:
+tulung kasih tw gw tentang daptar bahasa yang biasa di ekap bek en
+
+•	Assistant:
+Maaf, saya tidak mengerti, tolong input kembali dengan benar.
+
+•	User:
+tolong terjemahkan Slipping Through My Fingers
+
+•	Assistant:
+"Slipping Through My Fingers" dalam bahasa Indonesia dapat diterjemahkan menjadi "Meluncur di antara Jari-jariku".
+
+ 
+
+•	User:
+Каяти
+
+•	Assistant:
+Maaf, saya tidak mengerti bahasa yang Anda gunakan. Mohon inputkan dalam bahasa yang benar.
+
+•	User:
+terjemahkan Meluncur di antara Jari-jariku
+
+•	Assistant:
+"Slipping Through My Fingers
