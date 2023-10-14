@@ -1,0 +1,66 @@
+{
+	"info": {
+		"_postman_id": "2d4b6b88-0237-4084-871c-da4a9a1597ce",
+		"name": "Tugas 26",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "29084841"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"budget\" : 80000000,\r\n    \"purpose\" : \"gaming\",\r\n    \"brand\" : \"MSI\",\r\n    \"ram\" : \"32 GB\",\r\n    \"cpu\" : \"Intel Core i9\",\r\n    \"screen_size\" : \"16 inches\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/laptop-recomendation",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"laptop-recomendation"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"budget\" : 50000000,\r\n    \"purpose\" : \"studying\",\r\n    \"brand\" : \"apple\",\r\n    \"ram\" : \"8 GB\",\r\n    \"cpu\" : \"m2\",\r\n    \"screen_size\" : \"15 inches\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8080/laptop-recomendation",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"laptop-recomendation"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
